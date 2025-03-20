@@ -3,7 +3,7 @@ A graduate of a vocational school, majoring in Computer and Network Engineering,
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ay_yaanii0204) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Andri yani meuraxa) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@fancyyouuuuu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andriyanimeuraxa1@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ay_yaanii0204) [![LinkedIn](https://www.linkedin.com/in/andri-yani-meuraxa-2a1170259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://linkedin.com/in/Andri yani meuraxa) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@fancyyouuuuu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andriyanimeuraxa1@gmail.com) 
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
